@@ -1,4 +1,4 @@
 # abhishekverma17-demo
 This is my first Git Repository.
 <br>
-Author - Abhishek Verma (Demo)
+Author - Abhishek Verma
